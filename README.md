@@ -68,8 +68,6 @@ Full Stack Developer at **KaswebTech Solutions**
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-backend-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-backend-dev&" alt="GitHub Streak" />
 </p>
 
